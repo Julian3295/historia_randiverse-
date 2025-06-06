@@ -1,4 +1,4 @@
-package com.randiverse.historia_usario;
+package com.randiverse.historia_usuario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.randiverse.historia_usario.model;
+package com.randiverse.historia_usuario.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

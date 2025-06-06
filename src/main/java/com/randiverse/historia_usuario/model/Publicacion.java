@@ -1,4 +1,4 @@
-package com.randiverse.historia_usario.model; // Asegúrate de que el paquete sea correcto
+package com.randiverse.historia_usuario.model; // Asegúrate de que el paquete sea correcto
 
 import jakarta.persistence.*;
 import lombok.Data;
